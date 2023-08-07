@@ -1,0 +1,11 @@
+Model Information:
+* title:	bijou
+* source:	https://sketchfab.com/3d-models/bijou-2f446025070f4db18ad9d7214a81063e
+* author:	pyr0xene (https://sketchfab.com/pyr0xene)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "bijou" (https://sketchfab.com/3d-models/bijou-2f446025070f4db18ad9d7214a81063e) by pyr0xene (https://sketchfab.com/pyr0xene) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
